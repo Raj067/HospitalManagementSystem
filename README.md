@@ -21,8 +21,6 @@ python app.py
   "host": "127.0.0.1"
 }
 ```
-## documentation
-[Click here to view documentation](https://documenter.getpostman.com/view/457459/hospitalmanagementsystem/2HQup9)
 
 
 
@@ -53,9 +51,6 @@ Open an issue first to discuss potential changes/additions. If you have question
 
  Use this guide. Attributions are appreciated._
 
-### Copyright
-
-Copyright (c) 2014-2015 [Tushar Borole](http://www.tusharborole.com)
 
 ### (The MIT License)
 Permission is hereby granted, free of charge, to any person obtaining
@@ -77,8 +72,4 @@ CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
 TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-##Last but not least
-This is made in India with love and passion  ʕ´•ᴥ•`ʔ
-
-<a href="../../" target="_blank"><img src="http://lonamowers-hrd.appspot.com/images/made_india.jpg" height="200"></a>
 
